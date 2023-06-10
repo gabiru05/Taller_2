@@ -1,5 +1,5 @@
 //Gabriel Ruiz, Jonathan Reyes, Keneth Benavidez.
-package new2;
+package Promedio_Final;
 
 public class ImprimirNombresDeUsuariosCreados {
     // Método para imprimir los nombres de los usuarios creados

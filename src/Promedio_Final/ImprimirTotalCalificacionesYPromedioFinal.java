@@ -1,5 +1,5 @@
 //Gabriel Ruiz, Jonathan Reyes, Keneth Benavidez.
-package new2;
+package Promedio_Final;
 
 import java.io.BufferedReader;
 import java.io.IOException;
